@@ -18,8 +18,11 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
+      VITE_APP_TITLE: ${{ secrets.VITE_APP_TITLE }} 
+      VITE_POKEMON: ${{ secrets.VITE_POKEMON }}
       VITE_SUPABASE_URL: ${{ secrets.VITE_SUPABASE_URL }}
       VITE_SUPABASE_ANON_KEY: ${{ secrets.VITE_SUPABASE_ANON_KEY }}
+      VITE_GOOGLE_APPLICATION_CREDENTIALS: ${{ secrets.VITE_GOOGLE_APPLICATION_CREDENTIALS }} 
     steps:
       - name: Checkout
         uses: actions/checkout@v4
