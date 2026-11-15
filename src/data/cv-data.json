@@ -1,0 +1,395 @@
+{
+  "CV": {
+    "experiences": {
+      "titre": "expériences professionnelles",
+      "icon": "fa-suitcase",
+      "list": [
+        {
+          "titre": "Développeur Full Stack Senior / Cegid EBP",
+          "dateDebut": "Juin-2023",
+          "dateFin": "Présent",
+          "duree": "3 an 5 mois",
+          "lignes": [
+            "Développement back-end en <b>PHP/Symfony</b> pour des applications de gestion comptable.",
+            "Conception et optimisation de bases de données <b>MariaDB/MySQL</b> : modélisation, requêtes, migrations Doctrine.",
+            "Développement front-end en <b>JavaScript/Angular</b> pour les interfaces utilisateur.",
+            "Participation aux revues de code, à l'écriture de tests unitaires (PHPUnit) et à l'intégration continue.",
+            "Environnement technique : PHP 8, Symfony 6, MariaDB, Angular, Git, Docker."
+          ]
+        },
+        {
+          "titre": "Ingénieur d’études et développement / Freelance",
+          "dateDebut": "Décembre 2018",
+          "dateFin": "Juin 2019",
+          "duree": "7 mois",
+          "lignes": [
+            "Migration d'un site E-commerce de <b>PHP 5 à PHP 7.2</b>.",
+            "Environnement technique : PHP, MySQL, Git."
+          ]
+        },
+        {
+          "titre": "Ingénieur d'études et développement / sfr.fr",
+          "dateDebut": "Juin 2016",
+          "dateFin": "Avril 2018",
+          "duree": "1 an 10 mois",
+          "lignes": [
+            "Développement de projets <b>CRM, Intranet, Extranet, Back-End, Front-End</b> en <b>PHP/MySQL</b>.",
+            "Conception d'API <b>REST</b> et de <b>Web Services SOAP</b>.",
+            "Environnement technique : PHP, MySQL, JavaScript, jQuery, AJAX, CSS, JSON, XML, Git, Jenkins.",
+            "( Télétravail 3/5 J )"
+          ]
+        },
+        {
+          "titre": "Ingénieur d'études et développement / virginmobile.fr",
+          "dateDebut": "Avril 2008",
+          "dateFin": "Juin 2016",
+          "duree": "8 an 3 mois",
+          "lignes": [
+            "Développement d'applications web en <b>PHP/MySQL</b> : CRM, e-boutique, selfcare, facturation, gestion des stocks, anonymisation des données.",
+            "Conception de l'architecture de plusieurs applications (gestion de coupons, anonymisation des données personnelles).",
+            "Migration de applications vers <b>Symfony 2 puis Symfony 3</b> avec PHP (formation Symfony2 chez SensioLabs en 2014).",
+            "Environnement technique : PHP, Symfony, MySQL, HTML, JavaScript, jQuery, AJAX, CSS, JSON, XML, Git, Jenkins, Capifony.",
+            "Méthodes : cascade, cycle en V, puis Agile Scrum et Kanban.",
+            "Télétravail 3/5 J pendant 6 ans."
+          ]
+        },
+        {
+          "titre": "Ingénieur d’études et développement / Freelance",
+          "dateDebut": "Juillet 2006",
+          "dateFin": "Mars 2008",
+          "duree": "1 an 9 mois",
+          "lignes": [
+            "Développement d'un site E-commerce en <b>LAMP</b> (Linux, Apache, MySQL, PHP).",
+            "Encadrement d'une équipe de 4 personnes pour le développement du back-end d'une application de vente auto en ligne (<b>PHP/MySQL</b>)."
+          ]
+        },
+        {
+          "titre": "Enseignant / Université de Pau et des Pays de l'Adour",
+          "dateDebut": "Septembre 2004",
+          "dateFin": "Août 2005",
+          "duree": "1 an",
+          "lignes": [
+            "192 heures d'enseignement de cours variés en informatique (langage de programmation, base de données, bureautique).",
+            "Création d'une application en <b>PHP et MySQL</b> pour l'auto-évaluation des étudiants de première année de la faculté de droit."
+          ]
+        },
+        {
+          "titre": "Enseignant / Université de Caen Normandie",
+          "dateDebut": "Septembre 2003",
+          "dateFin": "Août 2004",
+          "duree": "1 an",
+          "lignes": [
+            "192 heures d'enseignement de cours variés en informatique (langage de programmation, base de données, bureautique).",
+            "Encadrement des stagiaires et membre du jury de soutenances des stages pour les étudiants de Licence et Master professionnels."
+          ]
+        },
+        {
+          "titre": "Enseignant / EPF école d'ingénieurs",
+          "dateDebut": "1999",
+          "dateFin": "2003",
+          "duree": "4 an",
+          "lignes": [
+            "Enseignement des travaux pratiques en langage LISP (85 heures/an)."
+          ]
+        }
+      ]
+    },
+    "diplomes": {
+      "titre": "formations",
+      "icon": "fa-graduation-cap",
+      "list": [
+        {
+          "titre": "OpenClassRooms / Paris",
+          "dateDebut": "2020",
+          "dateFin": "2021",
+          "lignes": [
+            "Administrateur infrastructure et cloud. Une formation de 14 mois pour avoir le diplôme (RNCP - 9857)."
+          ],
+          "references": [
+            "https://openclassrooms.com/fr/paths/406-administrateur-systemes-et-reseaux"
+          ]
+        },
+        {
+          "titre": "Université de Versailles Saint-Quentin-en-Yvelines / Supélec (Gif-sur-Yvette)",
+          "dateDebut": "1999",
+          "dateFin": "2003",
+          "lignes": [
+            "Docteur en Informatique, sous le thème (Propositions pour un système de gestion d'objets et de ressources pédagogiques)."
+          ],
+          "references": [
+            "https://www.uvsq.fr/",
+            "https://www.centralesupelec.fr/"
+          ]
+        },
+        {
+          "titre": "Polytech Nice Sophia (ESSI)",
+          "dateDebut": "1998",
+          "dateFin": "1999",
+          "lignes": [
+            "DEA (Diplôme d'Études Approfondies) en Informatique."
+          ],
+          "references": [
+            "https://polytech.univ-cotedazur.fr/"
+          ]
+        }
+      ]
+    },
+    "certifications": {
+      "titre": "certifications",
+      "icon": "fas fa-certificate",
+      "list": [
+        {
+          "titre": "Chef de projet Méthodes Agiles",
+          "dateDebut": "Décembre-2017",
+          "lignes": [
+            "ORSYS / Paris"
+          ],
+          "references": [
+            "https://www.orsys.fr/formation-parcours-certifiant-chef-de-projet-methodes-agiles.html"
+          ]
+        },
+        {
+          "titre": "Découvrez la méthodologie DevOps",
+          "dateDebut": "Juin-2021",
+          "lignes": [
+            "OpenClassRooms / Paris",
+            "ID du diplôme : 6443903544"
+          ],
+          "references": [
+            "https://openclassrooms.com/fr/courses/6093671-decouvrez-la-methodologie-devops"
+          ]
+        },
+        {
+          "titre": "Utilisez Git et GitHub pour vos projets de développement",
+          "dateDebut": "Novembre-2020",
+          "lignes": [
+            "OpenClassRooms / Paris",
+            "ID du diplôme : 6887565326"
+          ],
+          "references": [
+            "https://openclassrooms.com/fr/courses/5641721-utilisez-git-et-github-pour-vos-projets-de-developpement"
+          ]
+        }
+      ]
+    },
+    "projets": {
+      "titre": "projets",
+      "icon": "fas fa-project-diagram",
+      "list": [
+        {
+          "titre": "Migration de l’infrastructure d’une entreprise vers le cloud AWS",
+          "dateDebut": "Mars-2021",
+          "dateFin": "Avril-2021",
+          "duree": "1 mois",
+          "lignes": [
+            "Réalisation d’un planning pour la migration de l’infrastructure d’une entreprise vers le cloud :",
+            "<div class=\"global\"><div class=\"gauche\">-</div><div class=\"droit\">Définir toutes les étapes techniques et logistiques de la migration ;</div></div>",
+            "<div class=\"global\"><div class=\"gauche\">-</div><div class=\"droit\">Évaluer l’ordre et la durée de chaque opération afin de réaliser un calendrier ;</div></div>",
+            "<div class=\"global\"><div class=\"gauche\">-</div><div class=\"droit\">Évaluer l’impact sur la continuité du service dans le meilleur et dans le pire des cas ;</div></div>",
+            "<div class=\"global\"><div class=\"gauche\">-</div><div class=\"droit\">Établir une procédure de retour arrière (rollback) pour arrêter la migration en cas de problème.</div></div>"
+          ]
+        },
+        {
+          "titre": "Le Cloud AWS",
+          "dateDebut": "Février-2021",
+          "dateFin": "Février-2021",
+          "duree": "1 mois",
+          "lignes": [
+            "<div class=\"global\"><div class=\"gauche\">-</div><div class=\"droit\">Création d'une infrastructure complète :</div></div>",
+            "<ul><li>VPN ;</li></ul>",
+            "<ul><li>Sous-réseaux publics répartis sur plusieurs zones de disponibilité (multi-AZ) ;</li></ul>",
+            "<ul><li>Sous-réseaux privés répartis sur plusieurs zones de disponibilité (multi-AZ) ;</li></ul>",
+            "<ul><li>Base de données dans RDS ;</li></ul>",
+            "<ul><li>Instances EC2 avec Docker et WordPress ;</li></ul>",
+            "<ul><li>Stockage de fichiers médias dans S3 et les monter comme des répertoires sur les instances EC2 ;</li></ul>",
+            "<ul><li>Auto-scaling sur les instances EC2 pour augmenter le nombre de machines dès que la charge CPU des serveurs atteint 80% en moyenne sur 5 minutes et être informé par un mail à chaque fois que l'événement survient via CloudWatch ;</li></ul>",
+            "<ul><li>Automatisation de la création de l’ensemble de ces ressources via un stack de CloudFormation.</li></ul>",
+            "<div class=\"global\"><div class=\"gauche\">-</div><div class=\"droit\">Création d'une connexion VPN (Site to Site) entre le siège de l’entreprise et le cloud AWS ;</div></div>",
+            "<div class=\"global\"><div class=\"gauche\">-</div><div class=\"droit\">Évaluation des coûts de l’infrastructure AWS à partir de différentes hypothèses d'usage.</div></div>"
+          ]
+        },
+        {
+          "titre": "Mettez en place une nouvelle solution de sauvegarde",
+          "dateDebut": "Janvier-2021",
+          "dateFin": "Janvier-2021",
+          "duree": "1 mois",
+          "lignes": [
+            "<div class=\"global\"><div class=\"gauche\">-</div><div class=\"droit\">Mettre en place un système de sauvegarde/restauration incrémentiel avec Percona XtraBackup et des scripts Shell pour la base de données MySQL et les sauvegarder sur un serveur distant ;</div></div>",
+            "<div class=\"global\"><div class=\"gauche\">-</div><div class=\"droit\">Mettre en place un système de sauvegarde/restauration incrémentiel avec des scripts Shell pour un site Web réalisé par WordPress et les sauvegarder sur un serveur distant.</div></div>"
+          ]
+        },
+        {
+          "titre": "Automatisation des taches d’administration",
+          "dateDebut": "Novembre-2020",
+          "dateFin": "Novembre-2020",
+          "duree": "1 mois",
+          "lignes": [
+            "<div class=\"global\"><div class=\"gauche\">-</div><div class=\"droit\">Création de scripts Python et d'un module Ansible pour la création, modification et suppression en masse des comptes utilisateurs sur Active Directory de Windows Server 2016 à partir des données d’un fichier CSV ;</div></div>",
+            "<div class=\"global\"><div class=\"gauche\">-</div><div class=\"droit\">Utilisation de GitHub pour partager le script Python avec la communauté de développeurs.</div></div>"
+          ]
+        }
+      ]
+    },
+    "competences": {
+      "titre": "compétences clés",
+      "icon": "fas fa-user-cog margin-right",
+      "list": [
+        {
+          "titre": "Développement",
+          "icon": "fas fa-file-code margin-right",
+          "lignes": [
+            {
+              "titre": "PHP / Symfony",
+              "niveau": "100"
+            },
+            {
+              "titre": "MySQL / MariaDB",
+              "niveau": "100"
+            },
+            {
+              "titre": "HTML / CSS / XML / JSON",
+              "niveau": "100"
+            },
+            {
+              "titre": "Git / GitLab",
+              "niveau": "100"
+            },
+            {
+              "titre": "Jenkins / JIRA",
+              "niveau": "100"
+            },
+            {
+              "titre": "JavaScript / jQuery / VueJS / Angular",
+              "niveau": "95"
+            },
+            {
+              "titre": "NodeJS",
+              "niveau": "90"
+            },
+            {
+              "titre": "Python / Django",
+              "niveau": "90"
+            }
+          ]
+        },
+        {
+          "titre": "Architecture et méthodes",
+          "icon": "fas fa-sitemap margin-right",
+          "lignes": [
+            {
+              "titre": "Architecture logicielle, API REST, Web Services",
+              "niveau": "95"
+            },
+            {
+              "titre": "Tests unitaires et fonctionnels (PHPUnit)",
+              "niveau": "90"
+            },
+            {
+              "titre": "CI/CD, DevOps",
+              "niveau": "85"
+            },
+            {
+              "titre": "Méthodes Agiles (Scrum, Kanban), cycle en V",
+              "niveau": "90"
+            },
+            {
+              "titre": "Docker, Ansible",
+              "niveau": "80"
+            }
+          ]
+        }
+      ]
+    },
+    "langages": {
+      "titre": "langages",
+      "icon": "fas fa-globe margin-right",
+      "list": [
+        {
+          "titre": "Anglais",
+          "niveau": "50"
+        },
+        {
+          "titre": "Arabe",
+          "niveau": "100"
+        }
+      ]
+    },
+    "softskills": {
+      "titre": "Soft Skills",
+      "icon": "fas fa-user-tag margin-right",
+      "list": [
+        {
+          "titre": "Attentif, à l'écoute"
+        },
+        {
+          "titre": "Passionné"
+        },
+        {
+          "titre": "Coopératif"
+        },
+        {
+          "titre": "Respectueux"
+        },
+        {
+          "titre": "Enthousiaste"
+        },
+        {
+          "titre": "Optimiste"
+        },
+        {
+          "titre": "Ouvert d'esprit"
+        },
+        {
+          "titre": "Accepte les critiques et s'adapte en fonction"
+        },
+        {
+          "titre": "Organisé"
+        },
+        {
+          "titre": "Gestion des priorités"
+        },
+        {
+          "titre": "Prise d'initiatives"
+        },
+        {
+          "titre": "Sens des responsabilités"
+        },
+        {
+          "titre": "Respect des délais"
+        }
+      ]
+    },
+    "contact": {
+      "titre": "Contact",
+      "invitation": "Veuillez m'envoyer votre message",
+      "name": "Nom",
+      "email": "Email",
+      "subject": "Sujet",
+      "message": "Votre message",
+      "btvalider": "Envoyer",
+      "notification": "Veuillez corriger le suivant",
+      "notname": "Veuillez entrer votre nom.",
+      "notemail1": "Veuillez entrer votre email.",
+      "notemail2": "Votre email n'est pas valide.",
+      "notsubject": "Veuillez entrer votre sujet.",
+      "notmessage": "Veuillez entrer votre message."
+    },
+    "profile": {
+      "firstname": "Walid",
+      "lastname": "KEKHIA",
+      "poste1": "PhD.",
+      "poste2": "Développeur Full Stack Senior PHP / Symfony",
+      "poste3": "Lead Développeur PHP / Symfony",
+      "linkedin": "https://www.linkedin.com/in/kekhia/"
+    },
+    "permis": {
+      "titre": "B",
+      "icon": "fas fa-car margin-right",
+      "list": []
+    },
+    "footer": {
+      "name": "Walid KEKHIA",
+      "icon": "fa fa-copyright hover-opacity"
+    }
+  }
+}

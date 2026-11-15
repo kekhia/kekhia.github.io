@@ -1,0 +1,1027 @@
+{
+  "CV": {
+    "experiences": {
+      "titre": "expériences professionnelles",
+      "icon": "fa-suitcase",
+      "list": [
+        {
+          "titre": "Développeur Full Stack Senior / Cegid EBP",
+          "dateDebut": "Juin-2023",
+          "dateFin": "Présent",
+          "duree": "3 an 5 mois",
+          "lignes": [
+            "Au sein de **Cegid EBP**, je participe à la conception, au développement et à l'évolution de solutions logicielles autour des enjeux de gestion et de facturation électronique.","",
+            "**Mes principales responsabilités :**",
+            "- **Développement Back-End :** conception et développement d'applications et de services avec PHP 8.3 et Symfony 7.2.",
+            "- **Développement Front-End :** réalisation d'interfaces utilisateur modernes et dynamiques avec Angular et JavaScript.",
+            "- **Architecture logicielle :** mise en œuvre des principes du DDD (*Domain-Driven Design*) et participation à la conception d'une architecture horizontale, modulaire et évolutive.",
+            "- **Base de données :** conception, optimisation et gestion des données avec MariaDB.",
+            "- **Architecture événementielle et communication temps réel :** mise en place de mécanismes de messagerie asynchrone avec RabbitMQ et de communication temps réel avec Mercure.",
+            "- **Intégration et déploiement continus :** utilisation d'Azure DevOps pour la gestion des pipelines CI/CD et l'automatisation des processus de développement.",
+            "- **Gestion du code source :** utilisation de Git pour le versionnement et le travail collaboratif.",
+            "- **Facturation électronique :** contribution aux évolutions techniques et fonctionnelles liées aux enjeux de la facturation électronique.",
+            "",
+            "**Environnement technique**",
+            "",
+            "```bash",
+            "PHP 8.3, Symfony 7.2, Angular, JavaScript, MariaDB, DDD, Architecture horizontale, RabbitMQ, Mercure, Azure DevOps, Git, Facturation électronique. Méthodes agiles",
+            "```",
+            "",
+            "(Full Télétravail)"
+          ]
+        },
+        {
+          "titre": "Ingénieur systèmes / Orange",
+          "dateDebut": "Février-2022",
+          "dateFin": "Mai 2023",
+          "duree": "1 an 4 mois",
+          "lignes": [
+            "- Travaillé en tant qu'ingénieur système pendant 15 mois chez **Orange**, avec un accent particulier sur le sujet SSO (Single Sign-On).",
+            "- Impliqué dans divers projets liés au SSO notamment la migration de l'automatisation des tâches réalisées avec Chef vers Ansible sur des systèmes Redhat et Windows Sever, afin de collaboré étroitement avec l'équipe de développement et les équipes opérationnelles pour concevoir, mettre en œuvre et tester les solutions de SSO en garantissant une expérience utilisateur fluide et sécurisée",
+            "- Participé activement aux phases de conception, de développement et de déploiement des projets SSO en assurant une intégration transparente avec les systèmes existants et en respectant les normes de sécurité et de conformité.",
+            "- Fourni un support technique aux utilisateurs finaux et aux équipes internes en résolvant les problèmes liés au SSO et en proposant des solutions appropriées pour optimiser les flux de travail.",
+            "",
+            "**Environnement technique**",
+            "",
+            "```bash",
+            "Windows / Linux, Red Hat 6 et 7 et 9, Sécurité (contrôle d’accès, pare-feu, supervision…), Windows Server 2016 - Active Directory (multi-sites), Réseaux (protocoles, routage, virtualisation, Wi-Fi…), GitLab, Shell, JIRA, Ansible, Chef, Git,Méthodes agiles.",
+            "```",
+            "",
+            "( Télétravail 3/5 J )"
+          ]
+        },
+        {
+          "titre": "Administrateur infrastructure et cloud / OpenClassRooms",
+          "dateDebut": "Juin 2020",
+          "dateFin": "Août 2021",
+          "duree": "1 an 2 mois",
+          "lignes": [
+            "Formation intensive de 14 mois (RNCP niveau 7) orientée infrastructure, cloud et sécurité.",
+            "Réalisation de 9 projets pratiques couvrant l'ensemble du cycle de vie d'une infrastructure : conception, déploiement, sécurisation et supervision.",
+            "- **Cloud AWS** : conception d'une architecture multi-AZ (VPC, sous-réseaux publics/privés, EC2, RDS, S3, Auto Scaling, CloudWatch), automatisation via CloudFormation et connexion VPN Site-to-Site.",
+            "- **Sauvegarde et restauration** : mise en place d'une solution incrémentielle avec Percona XtraBackup et scripts Shell pour MySQL et WordPress.",
+            "- **Supervision** : installation et configuration de Nagios (indicateurs mémoire, CPU, bases de données, logs via Rsyslog/RELP) avec alertes automatisées.",
+            "- **Automatisation** : développement de scripts Python et d'un module Ansible pour la gestion en masse des comptes Active Directory (Windows Server 2016).",
+            "- **Sécurité** : audit de sécurité sur serveur Linux Debian 10 avec Lynis, configuration de pare-feux et VPN.",
+            "- **Infrastructure réseau** : conception et déploiement d'une infrastructure complète (VLAN, DHCP, DNS, NTP, proxy, LDAP, serveur de fichiers) pour une entreprise de 100 postes.",
+            "Obtention de 30 certifications techniques (AWS, Docker, Ansible, Git, Linux, Active Directory, ITIL, etc.).",
+            "Voir la section [Projets](#projets) pour le détail des réalisations.",
+            "",
+            "**Environnement technique**",
+            "",
+            "```bash",
+            "AWS (VPC, EC2, RDS, S3, CloudFormation, CloudWatch, Auto Scaling, VPN), Linux (Debian/RedHat), Windows Server 2016 (Active Directory), MySQL, WordPress, Percona XtraBackup, Nagios, Rsyslog/RELP, Python, Ansible, Shell, Docker, Git, Lynis, VLAN, DHCP, DNS, NTP, LDAP, Proxy, Pare-feu, ITIL.",
+            "```",
+            "",
+            "(Full Télétravail)"
+          ]
+        },
+        {
+          "titre": "Ingénieur d’études et développement / Freelance",
+          "dateDebut": "Décembre 2018",
+          "dateFin": "Juin 2019",
+          "duree": "7 mois",
+          "lignes": [
+            "Migration d'un site E-commerce développé en PHP 5 vers PHP 7.2 pour améliorer les performances, la sécurité et la compatibilité avec les bibliothèques modernes.",
+            "- **Audit et analyse :** analyse de l'existant, identification des incompatibilités (fonctions obsolètes, extensions dépréciées, dépendances obsolètes) et établissement d'un plan de migration.",
+            "- **Refactoring du code :** adaptation du code pour PHP 7.2 (remplacement des fonctions obsolètes, correction des erreurs de typage, mise à jour des bibliothèques tierces).",
+            "- **Base de données :** migration du schéma et des données MySQL, optimisation des requêtes pour PHP 7.2.",
+            "- **Tests et validation :** mise en place de tests fonctionnels pour valider le comportement du site après migration, correction des régressions.",
+            "- **Déploiement :** mise en production progressive avec rollback possible, surveillance des performances et des logs post-déploiement.",
+            "- **Résultats :** amélioration des performances (temps de réponse réduit), compatibilité avec les versions récentes des bibliothèques, et meilleure sécurité (corrections des vulnérabilités de PHP 5).",
+            "",
+            "**Environnement technique**",
+            "```bash",
+            "PHP 5, PHP 7.2, MySQL, HTML, CSS, JavaScript, jQuery, Git, Composer.",
+            "```",
+            "",
+            "(Full Télétravail)"
+          ]
+        },
+        {
+          "titre": "Ingénieur d'études et développement / sfr.fr",
+          "dateDebut": "Juin 2016",
+          "dateFin": "Avril 2018",
+          "duree": "1 an 10 mois",
+          "lignes": [
+           "Développement de projets web variés pour un opérateur télécom majeur, dans un environnement technique riche et des méthodologies adaptées à chaque projet.",
+            "- **Développement Back-End :** conception et développement d'applications et de services en PHP/MySQL (CRM, Intranet, Extranet, API REST, Web Services SOAP).",
+            "- **Développement Front-End :** réalisation d'interfaces utilisateur en HTML, CSS, JavaScript, jQuery et AJAX, avec intégration des maquettes et optimisation de l'expérience utilisateur.",
+            "- **API et intégrations :** conception et développement d'API REST et de Web Services SOAP pour l'échange de données entre systèmes internes et partenaires.",
+            "- **Méthodologies :** travail en cycle en V, cascade et Agile (Scrum/Kanban) selon les projets, avec participation aux cérémonies (daily, sprint planning, revues).",
+            "- **Qualité et tests :** mise en place de tests unitaires et fonctionnels, participation aux revues de code et à l'amélioration continue.",
+            "- **Collaboration :** travail en équipe pluridisciplinaire (développeurs, chefs de projet, QA) et communication avec les parties prenantes.",
+            "",
+            "",
+            "**Environnement technique**",
+            "```bash",
+            "PHP, MySQL, HTML, CSS, JavaScript, jQuery, AJAX, REST, SOAP, Git, Jenkins, Méthodes Agiles (Scrum, Kanban),Cycle en V, Cascade.",
+            "```",
+            "",
+            "( Télétravail 3/5 J )"
+          ]
+        },
+        {
+          "titre": "Ingénieur d'études et développement / virginmobile.fr",
+          "dateDebut": "Avril 2008",
+          "dateFin": "Juin 2016",
+          "duree": "8 an 3 mois",
+          "lignes": [
+            "Participation à l'ensemble des projets de développement web d'un opérateur télécom majeur, sur des applications critiques (CRM, e-boutique, selfcare, facturation, gestion des stocks).",
+            "- **Développement Back-End :** conception et développement d'applications et de services en PHP/MySQL (CRM, Intranet, Extranet, API REST, Web Services SOAP).",
+            "- **Développement Front-End :** réalisation d'interfaces utilisateur en HTML, CSS, JavaScript, jQuery et AJAX, avec intégration des maquettes et optimisation de l'expérience utilisateur.",
+            "- **Architecture logicielle :** conception de l'architecture de plusieurs applications, notamment la gestion de coupons de recharge et l'anonymisation des données personnelles.",
+            "- **Fonctionnalités métier :** développement de modules de gestion des commandes, stocks, seuils d'alerte, traçabilité, acquisitions, fidélisation, prospection, facturation, e-boutique, selfcare, suivi de consommation, provisionnement.",
+            "- **Intégrations :** intégration des données dans Cegid et SAP, échanges avec des systèmes internes et partenaires via API REST et Web Services SOAP.",
+            "- **Migration Symfony :** participation aux projets de migration des applications vers Symfony 2 puis Symfony 3 (formation Symfony 2 chez SensioLabs en 2014).",
+            "- **Qualité et déploiement :** utilisation de Git pour le versionnement, Jenkins pour l'intégration continue et Capifony pour le déploiement des applications Symfony.",
+            "- **Méthodologies :** cycle en cascade (3 premières années), cycle en V (1 an), puis Agile Scrum et Kanban.",
+            "",
+            "**Environnement technique**",
+            "```bash",
+            "PHP, MySQL, HTML, CSS, JavaScript, jQuery, AJAX, JSON, XML, REST, SOAP, Symfony 2/3, Git, Jenkins, Capifony, Linux, Windows Pro 7, Méthodes Agiles (Scrum, Kanban), Cycle en V, Cascade.",
+            "```",
+            "",
+            "( Télétravail 3/5 J )"
+          ]
+        },
+        {
+          "titre": "Ingénieur d’études et développement / Freelance",
+          "dateDebut": "Juillet 2006",
+          "dateFin": "Mars 2008",
+          "duree": "1 an 9 mois",
+          "lignes": [
+            "Missions freelance pour deux clients distincts, couvrant le développement d'un site E-commerce et l'encadrement d'une équipe de développement back-end.",
+            "- **Mission 1 (9 mois) – Développement d'un site E-commerce en LAMP :** conception et développement complet d'une plateforme de vente en ligne (catalogue produits, panier, gestion des commandes, paiement, back-office).",
+            "- **Mission 1 – Stack technique :** Linux, Apache, MySQL, PHP, HTML, CSS, JavaScript.",
+            "- **Mission 2 (1 an) – Encadrement d'une équipe de 4 développeurs :** coordination de l'équipe, planification des tâches, revues de code et suivi des livraisons.",
+            "- **Mission 2 – Développement Back-End :** conception et développement du back-end d'une application de vente automobile en ligne (gestion des annonces, recherche, messagerie, gestion des utilisateurs).",
+            "- **Mission 2 – Stack technique :** PHP, MySQL, HTML, CSS, JavaScript.",
+            "",
+            "**Environnement technique**",
+            "```bash",
+            "Linux, Apache, MySQL, PHP, HTML, CSS, JavaScript.",
+            "```"
+          ]
+        },
+        {
+          "titre": "Enseignant / Université de Pau et des Pays de l'Adour",
+          "dateDebut": "Septembre 2004",
+          "dateFin": "Août 2005",
+          "duree": "1 an",
+          "lignes": [
+            "**Contexte :** Enseignement en informatique auprès d'étudiants de premier cycle, avec conception et développement d'une application web pour l'évaluation des compétences.",
+            "- **Enseignement :** 192 heures de cours variés en informatique (langages de programmation, bases de données, bureautique, algorithmique).",
+            "- **Conception pédagogique :** élaboration des supports de cours, des exercices pratiques et des évaluations.",
+            "- **Encadrement :** suivi des étudiants, correction des travaux et accompagnement individualisé.",
+            "- **Développement d'une application PHP/MySQL :** création d'une application web pour l'auto-évaluation des étudiants de première année de la faculté de droit, afin de leur attribuer leur passeport informatique.",
+            "- **Fonctionnalités de l'application :** gestion des questions, passage des tests, calcul des scores, génération des attestations de réussite et suivi des résultats.",
+            "",
+            "**Environnement technique**",
+            "```bash",
+            "PHP, MySQL, HTML, CSS, JavaScript.",
+            "```" 
+          ]
+        },
+        {
+          "titre": "Enseignant / Université de Caen Normandie",
+          "dateDebut": "Septembre 2003",
+          "dateFin": "Août 2004",
+          "duree": "1 an",
+          "lignes": [
+            "Enseignement en informatique auprès d'étudiants de Licence et Master professionnels, avec encadrement de stagiaires et participation à des jurys de soutenance.",
+            "- **Enseignement :** 192 heures de cours variés en informatique (langages de programmation, bases de données, bureautique, algorithmique).",
+            "- **Conception pédagogique :** élaboration des supports de cours, des exercices pratiques et des évaluations.",
+            "- **Encadrement de stagiaires :** suivi individualisé des étudiants en stage, définition des objectifs, évaluation des livrables et rédaction des rapports de stage.",
+            "- **Participation aux jurys :** membre du jury de soutenances des stages pour les étudiants de Licence et Master professionnels, évaluation des présentations et des mémoires.",
+            "- **Accompagnement :** conseil et orientation des étudiants dans leurs projets professionnels et académiques.",
+            "",
+            "**Environnement technique**",
+            "```bash",
+            "Informatique générale, langages de programmation, bases de données, bureautique.",
+            "```"
+          ]
+        },
+        {
+          "titre": "Enseignant / EPF école d'ingénieurs",
+          "dateDebut": "1999",
+          "dateFin": "2003",
+          "duree": "4 an",
+          "lignes": [
+            "**Contexte :** Enseignement des travaux pratiques en langage LISP au sein d'une école d'ingénieurs, dans le cadre de la formation en informatique.",
+            "- **Enseignement :** 85 heures par an de travaux pratiques en LISP, couvrant les fondamentaux de la programmation fonctionnelle, la manipulation de listes, la récursivité et les structures de données.",
+            "- **Conception pédagogique :** élaboration des supports de TP, des exercices progressifs et des évaluations adaptées au niveau des étudiants.",
+            "- **Encadrement :** accompagnement des étudiants lors des séances de TP, correction des exercices et suivi individuel.",
+            "- **Évaluation :** conception et correction des contrôles continus et des examens pratiques.",
+            "- **Compétences développées :** programmation fonctionnelle, algorithmique, résolution de problèmes, logique.",
+            "",
+            "**Environnement technique**",
+            "```bash",
+            "LISP, programmation fonctionnelle, algorithmique.",
+            "```"
+          ]
+        }
+      ]
+    },
+    "diplomes": {
+      "titre": "formations",
+      "icon": "fa-graduation-cap",
+      "list": [
+        {
+          "titre": "OpenClassRooms / Paris",
+          "dateDebut": "2020",
+          "dateFin": "2021",
+          "lignes": [
+            "Formation intensive de 14 mois (RNCP niveau 7) orientée infrastructure, cloud et sécurité, avec une forte composante pratique (9 projets).",
+            "- **Contenu de la formation :** administration système Linux et Windows Server, virtualisation, réseaux (VLAN, DHCP, DNS, VPN), cloud AWS, sécurité, supervision, automatisation.",
+            "- **Projets pratiques :** réalisation de 9 projets couvrant l'ensemble du cycle de vie d'une infrastructure : conception, déploiement, sécurisation et supervision.",
+            "- **Cloud AWS :** conception d'une architecture multi-AZ (VPC, sous-réseaux publics/privés, EC2, RDS, S3, Auto Scaling, CloudWatch), automatisation via CloudFormation et connexion VPN Site-to-Site.",
+            "- **Sauvegarde et restauration :** mise en place d'une solution incrémentielle avec Percona XtraBackup et scripts Shell pour MySQL et WordPress.",
+            "- **Supervision :** installation et configuration de Nagios (indicateurs mémoire, CPU, bases de données, logs via Rsyslog/RELP) avec alertes automatisées.",
+            "- **Automatisation :** développement de scripts Python et d'un module Ansible pour la gestion en masse des comptes Active Directory (Windows Server 2016).",
+            "- **Sécurité :** audit de sécurité sur serveur Linux Debian 10 avec Lynis, configuration de pare-feux et VPN.",
+            "- **Infrastructure réseau :** conception et déploiement d'une infrastructure complète (VLAN, DHCP, DNS, NTP, proxy, LDAP, serveur de fichiers) pour une entreprise de 100 postes.",
+            "- **Certifications :** obtention de 30 certifications techniques (AWS, Docker, Ansible, Git, Linux, Active Directory, ITIL, etc.).",
+            "",
+            "**Environnement technique**",
+            "```bash",
+            "AWS (VPC, EC2, RDS, S3, CloudFormation, CloudWatch, Auto Scaling, VPN), Linux (Debian/RedHat), Windows Server 2016 (Active Directory), MySQL, WordPress, Percona XtraBackup, Nagios, Rsyslog/RELP, Python, Ansible, Shell, Docker, Git, Lynis, VLAN, DHCP, DNS, NTP, LDAP, Proxy, Pare-feu, ITIL.",
+            "```",
+            "",
+            "(Full Télétravail)"
+          ],
+          "references": [
+            "https://openclassrooms.com/fr/paths/406-administrateur-systemes-et-reseaux"
+          ]
+        },
+        {
+          "titre": "Université de Versailles Saint-Quentin-en-Yvelines / Supélec (Gif-sur-Yvette)",
+          "dateDebut": "1999",
+          "dateFin": "2003",
+          "lignes": [
+            "**Thèse :** *Propositions pour un système de gestion d'objets et de ressources pédagogiques*.",
+            "- **Contexte de recherche :** Ingénierie des systèmes d'information pédagogiques, avec pour objectif la conception d'un système permettant de gérer, indexer et partager des objets pédagogiques (cours, exercices, évaluations) et des ressources associées.",
+            "- **Méthodologie :** Analyse des besoins, modélisation des données (ontologies, métadonnées), conception d'architecture logicielle, prototypage et évaluation.",
+            "- **Contributions :** Proposition d'un modèle de gestion de ressources pédagogiques, définition de métadonnées pour l'indexation, conception d'un prototype fonctionnel et évaluation du système.",
+            "- **Résultats :** Le système proposé permet une meilleure organisation, recherche et réutilisation des ressources pédagogiques, facilitant ainsi la conception de parcours de formation personnalisés.",
+            "- **Compétences acquises :** Modélisation de systèmes d'information, ingénierie des connaissances, gestion de projet de recherche, rédaction scientifique, présentation de travaux.",
+            "- **Valorisation :** Publications dans des conférences et revues scientifiques, présentations lors de séminaires.",
+            "",
+            "**Environnement technique**",
+            "```bash",
+            "Modélisation UML, bases de données, XML, technologies web.",
+            "```"
+          ],
+          "references": [
+            "https://www.uvsq.fr/",
+            "https://www.centralesupelec.fr/"
+          ]
+        },
+        {
+          "titre": "Polytech Nice Sophia (ESSI)",
+          "dateDebut": "1998",
+          "dateFin": "1999",
+          "lignes": [
+            "DEA (Diplôme d'Études Approfondies) en Informatique, formation de niveau Bac+5 (équivalent Master 2 Recherche) orientée vers la recherche et la conception de systèmes informatiques.",
+            "- **Contenu de la formation :** algorithmique avancée, bases de données, génie logiciel, intelligence artificielle, réseaux, systèmes d'information.",
+            "- **Projet de recherche :** réalisation d'un projet de recherche en binôme sur une problématique liée à la gestion de données ou aux systèmes d'information, avec rédaction d'un mémoire et soutenance.",
+            "- **Compétences acquises :** modélisation de systèmes d'information, conception d'algorithmes, analyse de données, rédaction scientifique, présentation de travaux.",
+            "- **Poursuite d'études :** ce DEA m'a permis d'intégrer une thèse de doctorat en informatique à l'Université de Versailles Saint-Quentin-en-Yvelines / Supélec (1999-2003).",
+            "",
+            "**Environnement technique**",
+            "```bash",
+            "Algorithmique, bases de données, génie logiciel, modélisation UML.",
+            "```"
+          ],
+          "references": [
+            "https://polytech.univ-cotedazur.fr/"
+          ]
+        }
+      ]
+    },
+    "projets": {
+      "titre": "projets",
+      "icon": "fas fa-project-diagram",
+      "list": [
+        {
+          "titre": "Réaliser un audit de sécurité sur un serveur Linux Debian 10",
+          "dateDebut": "Avril-2021",
+          "dateFin": "Mai-2021",
+          "duree": "1 mois",
+          "lignes": [
+            "Audit de sécurité d'un serveur Linux Debian 10 exposé à Internet, dans le but d'identifier les vulnérabilités, de renforcer la configuration et de mettre en place les bonnes pratiques de sécurité.",
+            "- **Objectifs :** évaluer le niveau de sécurité du serveur, identifier les faiblesses (services exposés, permissions, mises à jour, mots de passe, pare-feu), et proposer un plan d'action correctif.",
+            "- **Méthodologie :** utilisation de l'outil Lynis pour réaliser un audit complet du système, analyse des résultats (hardening index, suggestions), vérification manuelle des points critiques.",
+            "- **Points audités :** configuration du noyau, services réseau, comptes utilisateurs et mots de passe, permissions des fichiers, pare-feu (iptables/nftables), journaux système, mises à jour de sécurité, SSH, etc.",
+            "- **Livrables :** rapport d'audit détaillé avec les vulnérabilités identifiées, les recommandations de correction et un plan d'action priorisé.",
+            "- **Résultats :** amélioration du score de sécurité (hardening index), réduction des vulnérabilités, mise en place de bonnes pratiques (durcissement SSH, pare-feu, mises à jour automatiques).",
+            "- **Compétences acquises :** audit de sécurité, administration Linux, sécurisation de serveur, analyse de risques, rédaction de rapport technique.",
+            "",
+            "**Environnement technique**",
+            "```bash",
+            "Linux Debian 10, Lynis, SSH, iptables/nftables, journaux système (syslog, journald).",
+            "```"
+          ]
+        },
+        {
+          "titre": "Planification de la migration d'infrastructure vers le cloud AWS",
+          "dateDebut": "Mars-2021",
+          "dateFin": "Avril-2021",
+          "duree": "1 mois",
+          "lignes": [
+            "Élaboration d'un plan de migration complet pour accompagner une entreprise dans le transfert de son infrastructure on-premise vers le cloud AWS, en garantissant la continuité de service et la maîtrise des risques.",
+            "- **Cadrage et analyse de l'existant :** inventaire des serveurs, applications, bases de données et dépendances ; identification des contraintes techniques, réglementaires et budgétaires.",
+            "- **Définition des étapes techniques :** découpage du projet en phases (préparation, migration pilote, migration par lots, bascule finale), avec pour chaque phase les actions à réaliser (sauvegardes, tests, validation).",
+            "- **Étapes logistiques :** coordination avec les équipes internes, planification des fenêtres de maintenance, communication auprès des utilisateurs, gestion des accès et des habilitations.",
+            "- **Estimation des durées et ordonnancement :** évaluation de l'effort et de la durée de chaque opération, construction d'un calendrier réaliste avec dépendances et chemin critique.",
+            "- **Analyse d'impact sur la continuité de service :** scénarios best-case (migration sans interruption) et worst-case (indisponibilité prolongée), définition des mesures d'atténuation et des SLAs.",
+            "- **Plan de rollback :** définition des points de restauration (snapshots, sauvegardes), des procédures de retour arrière et des critères de déclenchement en cas d'échec.",
+            "- **Livrables :** document de planification complet (phases, calendrier, matrice des risques, plan de communication, procédure de rollback).",
+            "- **Résultats :** plan de migration validé, risques identifiés et maîtrisés, procédure de rollback testée, calendrier respecté.",
+            "",
+            "**Environnement technique**",
+            "```bash",
+            "AWS, sauvegardes, snapshots, gestion des risques, planification projet.",
+            "```"
+          ]
+        },
+        {
+          "titre": "Création d'une infrastructure cloud AWS complète et hautement disponible",
+          "dateDebut": "Février-2021",
+          "dateFin": "Février-2021",
+          "duree": "1 mois",
+          "lignes": [
+            "Conception et déploiement d'une infrastructure cloud AWS complète pour héberger un site WordPress, avec des exigences de haute disponibilité, de scalabilité et de sécurité.",
+            "- **Architecture réseau :** création d'un VPC avec sous-réseaux publics et privés répartis sur plusieurs zones de disponibilité (multi-AZ) pour garantir la redondance et la tolérance aux pannes.",
+            "- **Connectivité hybride :** mise en place d'une connexion VPN Site-to-Site entre le siège de l'entreprise et le cloud AWS, permettant un accès sécurisé aux ressources internes.",
+            "- **Base de données :** déploiement d'une base de données MySQL dans Amazon RDS, avec sauvegardes automatiques et réplication multi-AZ.",
+            "- **Serveurs applicatifs :** instances EC2 exécutant Docker et WordPress, avec des groupes de sécurité restrictifs et des mises à jour automatisées.",
+            "- **Stockage des médias :** stockage des fichiers médias dans Amazon S3, monté comme répertoire sur les instances EC2 via des points de montage, pour un partage et une durabilité optimaux.",
+            "- **Scalabilité automatique :** configuration d'un Auto Scaling Group pour ajouter ou retirer des instances EC2 en fonction de la charge CPU (seuil de 80% sur 5 minutes), avec notifications par e-mail via CloudWatch.",
+            "- **Infrastructure as Code :** automatisation complète de la création de l'ensemble des ressources (VPC, sous-réseaux, EC2, RDS, S3, Auto Scaling, CloudWatch, VPN) via un stack CloudFormation, garantissant reproductibilité et cohérence.",
+            "- **Optimisation des coûts :** évaluation des coûts de l'infrastructure AWS à partir de différentes hypothèses d'usage (trafic, stockage, temps de calcul) et proposition d'options d'optimisation (instances réservées, spot instances).",
+            "- **Livrables :** infrastructure déployée et documentée, template CloudFormation réutilisable, rapport d'évaluation des coûts.",
+            "- **Résultats :** infrastructure hautement disponible, scalable et sécurisée, déployée en quelques minutes grâce à l'automatisation, avec une maîtrise des coûts.",
+            "",
+            "**Environnement technique**",
+            "```bash",
+            "AWS (VPC, EC2, RDS, S3, CloudFormation, CloudWatch, Auto Scaling, VPN Site-to-Site), Docker, WordPress, MySQL.",
+            "```"
+          ]
+        },
+        {
+          "titre": "Mise en place d'une solution de sauvegarde/restauration incrémentielle pour MySQL et WordPress",
+          "dateDebut": "Janvier-2021",
+          "dateFin": "Janvier-2021",
+          "duree": "1 mois",
+          "lignes": [
+            "Mise en place d'une politique de sauvegarde robuste pour une base de données MySQL et un site WordPress, avec des sauvegardes incrémentielles stockées sur un serveur distant pour garantir la reprise après sinistre.",
+            "- **Objectifs :** automatiser les sauvegardes, minimiser l'espace de stockage grâce à l'incrémental, assurer une restauration rapide et fiable, et sécuriser les données sur un site distant.",
+            "- **Sauvegarde MySQL :** utilisation de Percona XtraBackup pour réaliser des sauvegardes complètes et incrémentielles de la base de données, avec des scripts Shell pour orchestrer les opérations (planification, rotation, transfert).",
+            "- **Sauvegarde WordPress :** développement de scripts Shell pour sauvegarder les fichiers du site (thèmes, plugins, médias) et la base de données associée, avec archivage incrémentiel.",
+            "- **Stockage distant :** transfert sécurisé des sauvegardes vers un serveur distant via rsync/SSH, avec vérification d'intégrité et conservation selon une politique de rétention.",
+            "- **Restauration :** procédures documentées et testées pour restaurer la base de données et le site WordPress à partir des sauvegardes, avec validation de l'intégrité des données.",
+            "- **Automatisation :** planification des sauvegardes via cron, avec notifications en cas d'échec et rapports de sauvegarde.",
+            "- **Livrables :** scripts Shell documentés, procédures de sauvegarde et de restauration, rapport de tests de restauration.",
+            "- **Résultats :** sauvegardes automatisées et fiables, réduction de l'espace de stockage grâce à l'incrémental, restauration rapide et sécurisée, conformité avec les bonnes pratiques de sauvegarde.",
+            "",
+            "**Environnement technique**",
+            "```bash",
+            "Percona XtraBackup, MySQL, WordPress, scripts Shell, rsync, SSH, cron, Linux.",
+            "```"
+          ]
+        },
+        {
+          "titre": "Mise en place d'une supervision complète du SI avec Nagios et Rsyslog",
+          "dateDebut": "Décembre-2020",
+          "dateFin": "Décembre-2020",
+          "duree": "1 mois",
+          "lignes": [
+            "Déploiement d'une solution de supervision pour l'ensemble du système d'information d'une entreprise, afin de garantir la disponibilité et la performance des services et d'anticiper les incidents.",
+            "- **Objectifs :** surveiller en temps réel les serveurs, services et applications, configurer des alertes en cas de dépassement de seuils, et centraliser les logs pour faciliter le diagnostic.",
+            "- **Installation et configuration de Nagios :** installation du serveur Nagios et des agents NRPE sur les machines supervisées, configuration des hôtes, des services et des commandes de vérification.",
+            "- **Indicateurs supervisés :** mémoire (RAM, swap), processeurs (charge, utilisation CPU), bases de données (disponibilité, connexions, requêtes lentes), serveurs web (Apache/Nginx, temps de réponse, code HTTP), pages web (vérification de contenu), et logs système.",
+            "- **Supervision des logs avec Rsyslog :** configuration de Rsyslog pour centraliser les logs sur un serveur dédié, en utilisant le protocole RELP (Reliable Event Logging Protocol) pour garantir la fiabilité de la transmission.",
+            "- **Alertes et notifications :** définition de seuils d'alerte (warning, critical) pour chaque indicateur, configuration des notifications par e-mail et intégration avec les canaux de communication de l'équipe.",
+            "- **Tableaux de bord :** création de vues synthétiques dans Nagios pour visualiser l'état du SI en un coup d'œil.",
+            "- **Livrables :** documentation de la configuration, procédures d'ajout de nouveaux indicateurs, rapports de supervision.",
+            "- **Résultats :** supervision proactive du SI, détection rapide des anomalies, réduction du temps de résolution des incidents, centralisation des logs pour un diagnostic facilité.",
+            "",
+            "**Environnement technique**",
+            "```bash",
+            "Nagios, NRPE, Rsyslog, RELP, Linux, Apache/Nginx, MySQL, scripts de supervision.",
+            "```"
+          ]
+        },
+        {
+          "titre": "Automatisation de la gestion des comptes Active Directory avec Python et Ansible",
+          "dateDebut": "Novembre-2020",
+          "dateFin": "Novembre-2020",
+          "duree": "1 mois",
+          "lignes": [
+            "Automatisation de la création, modification et suppression en masse de comptes utilisateurs dans Active Directory (Windows Server 2016) à partir d'un fichier CSV, pour répondre à un besoin de gestion efficace des utilisateurs dans un environnement multi-sites.",
+            "- **Objectifs :** réduire le temps de gestion manuelle, éviter les erreurs de saisie, standardiser les procédures et faciliter les opérations de masse (arrivées, départs, mutations).",
+            "- **Développement Python :** création d'un script Python utilisant la bibliothèque `ldap3` pour interagir avec Active Directory, lire le fichier CSV, et effectuer les opérations de création, modification et suppression de comptes utilisateurs.",
+            "- **Module Ansible :** développement d'un module Ansible personnalisé pour intégrer le script Python dans des playbooks, permettant une exécution idempotente et une gestion des erreurs centralisée.",
+            "- **Gestion des données CSV :** parsing du fichier CSV, validation des champs (nom, prénom, email, service, etc.), génération des attributs AD (sAMAccountName, userPrincipalName, groupes d'appartenance).",
+            "- **Sécurité et bonnes pratiques :** gestion sécurisée des identifiants (variables d'environnement, Ansible Vault), journalisation des opérations, et gestion des erreurs (comptes existants, doublons).",
+            "- **Partage sur GitHub :** publication du script Python et du module Ansible sur GitHub, avec documentation (README, exemples d'utilisation, licence), pour partager avec la communauté de développeurs et faciliter la réutilisation.",
+            "- **Livrables :** script Python documenté, module Ansible, playbook exemple, documentation GitHub, rapport de tests.",
+            "- **Résultats :** automatisation complète des opérations de masse sur Active Directory, réduction du temps de traitement (de plusieurs heures à quelques minutes), diminution des erreurs, et contribution open source appréciée par la communauté.",
+            "",
+            "**Environnement technique**",
+            "```bash",
+            "Python (ldap3), Ansible, Active Directory (Windows Server 2016), CSV, GitHub, Ansible Vault, Linux.",
+            "```"
+          ]
+        },
+        {
+          "titre": "Gestion d'un environnement Active Directory multi-sites avec RODC et GPO",
+          "dateDebut": "Octobre-2020",
+          "dateFin": "Octobre-2020",
+          "duree": "1 mois",
+          "lignes": [
+            "Administration d'un environnement Active Directory (Windows Server 2016) composé d'un site principal (maison mère) et d'un site distant, avec pour objectif de centraliser la gestion des postes de travail, sécuriser les accès et garantir la continuité de service.",
+            "- **Objectifs :** mettre en place une gestion centralisée des utilisateurs et des postes, sécuriser les échanges entre les sites, optimiser l'authentification sur le site distant et standardiser les configurations via des GPO.",
+            "- **Gestion des postes de travail :** intégration des postes du site distant au domaine Active Directory, gestion des ordinateurs et des utilisateurs via des OU (Unités d'Organisation), et application de stratégies de groupe adaptées.",
+            "- **Connexion VPN entre les deux sites :** configuration d'un tunnel VPN Site-to-Site entre le site principal et le site distant, garantissant une communication sécurisée et chiffrée entre les deux réseaux.",
+            "- **Déploiement d'un RODC (Read-Only Domain Controller) :** installation d'un contrôleur de domaine en lecture seule sur le site distant, synchronisé avec le DC principal, pour améliorer les performances d'authentification et renforcer la sécurité en cas de compromission physique du site distant.",
+            "- **Synchronisation sans impact sur le réseau :** planification de la réplication Active Directory en dehors des heures de bureau pour éviter toute perturbation du trafic réseau pendant les heures ouvrées.",
+            "- **Création des comptes AD et des GPO :** création des comptes utilisateurs et des groupes de sécurité, puis définition de GPO pour : la politique de mots de passe (complexité, expiration), le fond d'écran d'entreprise, la configuration du pare-feu Windows, et l'interdiction d'installation de logiciels pour les utilisateurs ne faisant pas partie du service technique.",
+            "- **Répertoire partagé :** création d'un répertoire partagé en lecture-écriture hébergé sur le DC principal, avec des permissions basées sur les groupes de sécurité, accessible depuis les deux sites via le VPN.",
+            "- **Livrables :** documentation de l'architecture AD, des GPO et des procédures de gestion ; rapport de tests de réplication et d'authentification.",
+            "- **Résultats :** gestion centralisée et sécurisée des postes de travail sur les deux sites, authentification locale rapide grâce au RODC, réplication maîtrisée sans impact sur la production, et application uniforme des stratégies de sécurité.",
+            "",
+            "**Environnement technique**",
+            "```bash",
+            "Windows Server 2016, Active Directory, RODC, VPN Site-to-Site, GPO, DNS, DHCP, PowerShell, pare-feu Windows.",
+            "```"
+          ]
+        },
+        {
+          "titre": "Conception et déploiement d'une infrastructure réseau complète pour une entreprise multi-sites",
+          "dateDebut": "Août-2020",
+          "dateFin": "Septembre-2020",
+          "duree": "1 mois",
+          "lignes": [
+            "Conception et déploiement de l'infrastructure réseau d'une entreprise de 100 postes de travail et de téléphones IP répartis sur 5 départements, avec des exigences de sécurité, de disponibilité et de segmentation.",
+            "- **Objectifs :** mettre en place un réseau segmenté et sécurisé, centraliser les services (DHCP, DNS, NTP, LDAP, fichiers, messagerie), intégrer le stockage cloud (S3) et garantir la sécurité périmétrique.",
+            "- **Plan d'adressage réseau :** définition du plan d'adressage IP (classes, masques, plages DHCP, réservations), en prévoyant l'évolution et la segmentation par département et par type d'équipement.",
+            "- **Choix des matériels :** sélection des équipements réseau (switchs, routeurs, pare-feux) et des serveurs adaptés aux besoins (performances, coût, évolutivité).",
+            "- **Segmentation en VLAN :** création de VLAN dédiés par service (administration, production, invités, téléphonie IP, serveurs) pour isoler les flux et améliorer la sécurité.",
+            "- **Configuration des équipements :** configuration des switchs (VLAN, trunk, spanning-tree), des routeurs (routage inter-VLAN), et mise en place de la QoS pour la téléphonie IP.",
+            "- **DMZ :** installation et configuration du serveur de messagerie et du serveur web dans une DMZ, isolés du réseau interne par un pare-feu.",
+            "- **Services réseau :** installation et configuration du DHCP (attribution dynamique), du DNS (résolution interne), du NTP (synchronisation horaire), du proxy (contrôle d'accès Internet), du serveur LDAP (annuaire) et du serveur de fichiers.",
+            "- **Imprimantes réseau :** installation et configuration des imprimantes en réseau, avec impression via serveur d'impression pour centraliser les files d'attente.",
+            "- **Stockage cloud :** configuration du stockage des fichiers sur Amazon S3, avec des politiques de rétention et de sécurité adaptées.",
+            "- **Sécurisation :** mise en place de pare-feux (filtrage, NAT, règles de sécurité) et de bonnes pratiques (mises à jour, journalisation, sauvegardes).",
+            "- **Livrables :** documentation complète de l'architecture réseau (schémas, plan d'adressage, configurations), procédures d'exploitation et rapport de tests.",
+            "- **Résultats :** infrastructure réseau opérationnelle, segmentée et sécurisée, services centralisés, intégration du stockage cloud, et respect des bonnes pratiques de sécurité.",
+            "",
+            "**Environnement technique**",
+            "```bash",
+            "VLAN, DHCP, DNS, NTP, LDAP, proxy, pare-feu, DMZ, Amazon S3, téléphonie IP, serveur de fichiers, serveur d'impression.",
+            "```"
+          ]
+        },
+        {
+          "titre": "Déploiement d'une infrastructure réseau et serveurs pour une association",
+          "dateDebut": "Juillet-2020",
+          "dateFin": "Juillet-2020",
+          "duree": "1 mois",
+          "lignes": [
+            "**Contexte :** Mise en place de l'infrastructure informatique d'une association disposant d'une dizaine de postes de travail et de plusieurs serveurs, avec pour objectif de centraliser la gestion, automatiser la configuration et sécuriser les accès.",
+            "- **Objectifs :** fournir un réseau fonctionnel et sécurisé, automatiser l'attribution des adresses IP, standardiser la configuration des postes et permettre l'administration à distance via SSH.",
+            "- **Installation et configuration de l'infrastructure :** déploiement des serveurs (fichiers, impression, etc.), installation des postes de travail, et mise en place d'un réseau local avec switch et câblage adapté.",
+            "- **Serveur DHCP :** installation et configuration d'un serveur DHCP pour attribuer automatiquement une adresse IP, un masque, une passerelle et les serveurs DNS à chaque poste de travail, avec des réservations pour les équipements critiques.",
+            "- **Script bash de configuration :** création d'un script bash permettant de configurer un poste de travail à partir d'une installation par défaut (nom d'hôte, adresse IP statique si nécessaire, configuration des dépôts, installation de logiciels de base, etc.), réduisant ainsi le temps de déploiement et les erreurs manuelles.",
+            "- **Serveur SSH :** installation et configuration du serveur SSH sur les serveurs et postes critiques pour permettre l'administration à distance sécurisée (authentification par clé, restriction des accès, journalisation).",
+            "- **Sécurité et bonnes pratiques :** application des mises à jour, configuration du pare-feu, gestion des droits utilisateurs, et documentation des procédures.",
+            "- **Livrables :** infrastructure opérationnelle, script bash documenté, procédures d'installation et de configuration, rapport de tests.",
+            "- **Résultats :** réseau fonctionnel et automatisé, déploiement rapide des postes grâce au script, administration à distance sécurisée, et satisfaction de l'association.",
+            "",
+            "**Environnement technique**",
+            "```bash",
+            "Linux, DHCP, SSH, script bash, réseau local, serveurs, postes de travail.",
+            "```"
+          ]
+        }
+      ]
+    },
+    "certifications": {
+      "titre": "certifications",
+      "icon": "fas fa-certificate",
+      "list": [
+        {
+          "titre": "Découvrez la méthodologie DevOps",
+          "dateDebut": "Juin-2021",
+          "lignes": [
+            "OpenClassRooms / Paris",
+            "ID du diplôme : 6443903544"
+          ],
+          "references": [
+            "https://openclassrooms.com/fr/courses/6093671-decouvrez-la-methodologie-devops"
+          ]
+        },
+        {
+          "titre": "Mettez en place l'intégration et la livraison continues avec la démarche DevOps",
+          "dateDebut": "Juin-2021",
+          "lignes": [
+            "OpenClassRooms / Paris",
+            "ID du diplôme : 3442415540"
+          ],
+          "references": [
+            "https://openclassrooms.com/fr/courses/2035736-mettez-en-place-lintegration-et-la-livraison-continues-avec-la-demarche-devops"
+          ]
+        },
+        {
+          "titre": "Initiez-vous à la gestion de projet agile",
+          "dateDebut": "Mai-2021",
+          "lignes": [
+            "OpenClassRooms / Paris",
+            "ID du diplôme : 3738486755"
+          ],
+          "references": [
+            "https://openclassrooms.com/fr/courses/4507926-initiez-vous-a-la-gestion-de-projet-agile"
+          ]
+        },
+        {
+          "titre": "Maîtrisez les risques juridiques liés au numérique",
+          "dateDebut": "Mai-2021",
+          "lignes": [
+            "OpenClassRooms / Paris",
+            "ID du diplôme : 3049772578"
+          ],
+          "references": [
+            "https://openclassrooms.com/fr/courses/5162341-maitrisez-les-risques-juridiques-lies-au-numerique"
+          ]
+        },
+        {
+          "titre": "Gérez un projet digital avec une méthodologie en cascade",
+          "dateDebut": "Mai-2021",
+          "lignes": [
+            "OpenClassRooms / Paris",
+            "ID du diplôme : 8458898010"
+          ],
+          "references": [
+            "https://openclassrooms.com/fr/courses/4296701-gerez-un-projet-digital-avec-une-methodologie-en-cascade"
+          ]
+        },
+        {
+          "titre": "Créez un site moderne et professionnel avec WordPress 5",
+          "dateDebut": "Avril-2021",
+          "lignes": [
+            "OpenClassRooms / Paris",
+            "ID du diplôme : 8961359089"
+          ],
+          "references": [
+            "https://openclassrooms.com/fr/courses/5489551-creez-un-site-moderne-et-professionnel-avec-wordpress-5"
+          ]
+        },
+        {
+          "titre": "Auditez la sécurité d'un système d'exploitation",
+          "dateDebut": "Avril-2021",
+          "lignes": [
+            "OpenClassRooms / Paris",
+            "ID du diplôme : 1002942322"
+          ],
+          "references": [
+            "https://openclassrooms.com/fr/courses/2035746-auditez-la-securite-dun-systeme-dexploitation"
+          ]
+        },
+        {
+          "titre": "Administrez vos bases de données avec MySQL",
+          "dateDebut": "Mars-2021",
+          "lignes": [
+            "OpenClassRooms / Paris",
+            "ID du diplôme : 3720128285"
+          ],
+          "references": [
+            "https://openclassrooms.com/fr/courses/1959476-administrez-vos-bases-de-donnees-avec-mysql"
+          ]
+        },
+        {
+          "titre": "Gérez vos incidents avec le référentiel ITIL sur GLPI",
+          "dateDebut": "Mars-2021",
+          "lignes": [
+            "OpenClassRooms / Paris",
+            "ID du diplôme : 1893315021"
+          ],
+          "references": [
+            "https://openclassrooms.com/fr/courses/1730486-gerez-vos-incidents-avec-le-referentiel-itil-sur-glpi"
+          ]
+        },
+        {
+          "titre": "Découvrez le fonctionnement des algorithmes",
+          "dateDebut": "Mars-2021",
+          "lignes": [
+            "OpenClassRooms / Paris",
+            "ID du diplôme : 9214239194"
+          ],
+          "references": [
+            "https://openclassrooms.com/fr/courses/4366701-decouvrez-le-fonctionnement-des-algorithmes"
+          ]
+        },
+        {
+          "titre": "Virtualisez votre architecture et vos environnements de travail",
+          "dateDebut": "Mars-2021",
+          "lignes": [
+            "OpenClassRooms / Paris",
+            "ID du diplôme : 8585278552"
+          ],
+          "references": [
+            "https://openclassrooms.com/fr/courses/2035806-virtualisez-votre-architecture-et-vos-environnements-de-travail"
+          ]
+        },
+        {
+          "titre": "Maîtrisez vos applications et réseaux TCP/IP",
+          "dateDebut": "Mars-2021",
+          "lignes": [
+            "OpenClassRooms / Paris",
+            "ID du diplôme : 3535974955"
+          ],
+          "references": [
+            "https://openclassrooms.com/fr/courses/2340511-maitrisez-vos-applications-et-reseaux-tcp-ip"
+          ]
+        },
+        {
+          "titre": "Mettez en place les bonnes pratiques ITIL lors de vos déploiements",
+          "dateDebut": "Mars-2021",
+          "lignes": [
+            "OpenClassRooms / Paris",
+            "ID du diplôme : 7710013234"
+          ],
+          "references": [
+            "https://openclassrooms.com/fr/courses/2013451-mettez-en-place-les-bonnes-pratiques-itil-lors-de-vos-deploiements"
+          ]
+        },
+        {
+          "titre": "Déployez vos systèmes et réseaux dans le cloud avec AWS",
+          "dateDebut": "Mars-2021",
+          "lignes": [
+            "OpenClassRooms / Paris",
+            "ID du diplôme : 1157356238"
+          ],
+          "references": [
+            "https://openclassrooms.com/fr/courses/2035756-deployez-vos-systemes-et-reseaux-dans-le-cloud-avec-aws"
+          ]
+        },
+        {
+          "titre": "Optimisez votre déploiement en créant des conteneurs avec Docker",
+          "dateDebut": "Janvier-2021",
+          "lignes": [
+            "OpenClassRooms / Paris",
+            "ID du diplôme : 6753602131"
+          ],
+          "references": [
+            "https://openclassrooms.com/fr/courses/2035766-optimisez-votre-deploiement-en-creant-des-conteneurs-avec-docker"
+          ]
+        },
+        {
+          "titre": "Mettez en place un outil de supervision de production avec Nagios",
+          "dateDebut": "Novembre-2020",
+          "lignes": [
+            "OpenClassRooms / Paris",
+            "ID du diplôme : 3062065364"
+          ],
+          "references": [
+            "https://openclassrooms.com/fr/courses/2035786-mettez-en-place-un-outil-de-supervision-de-production-avec-nagios"
+          ]
+        },
+        {
+          "titre": "Utilisez Git et GitHub pour vos projets de développement",
+          "dateDebut": "Novembre-2020",
+          "lignes": [
+            "OpenClassRooms / Paris",
+            "ID du diplôme : 6887565326"
+          ],
+          "references": [
+            "https://openclassrooms.com/fr/courses/5641721-utilisez-git-et-github-pour-vos-projets-de-developpement"
+          ]
+        },
+        {
+          "titre": "Découvrez la programmation orientée objet avec Python",
+          "dateDebut": "Octobre-2020",
+          "lignes": [
+            "OpenClassRooms / Paris",
+            "ID du diplôme : 2656220741"
+          ],
+          "references": [
+            "https://openclassrooms.com/fr/courses/4302126-decouvrez-la-programmation-orientee-objet-avec-python"
+          ]
+        },
+        {
+          "titre": "Apprenez à programmer en Python",
+          "dateDebut": "Octobre-2020",
+          "lignes": [
+            "OpenClassRooms / Paris",
+            "ID du diplôme : 1852793671"
+          ],
+          "references": [
+            "https://openclassrooms.com/fr/courses/235344-apprenez-a-programmer-en-python"
+          ]
+        },
+        {
+          "titre": "Utilisez Ansible pour automatiser vos tâches de configuration",
+          "dateDebut": "Octobre-2020",
+          "lignes": [
+            "OpenClassRooms / Paris",
+            "ID du diplôme : 1362830627"
+          ],
+          "references": [
+            "https://openclassrooms.com/fr/courses/2035796-utilisez-ansible-pour-automatiser-vos-taches-de-configuration"
+          ]
+        },
+        {
+          "titre": "Prenez en main Windows Server",
+          "dateDebut": "Octobre-2020",
+          "lignes": [
+            "OpenClassRooms / Paris",
+            "ID du diplôme : 5205660817"
+          ],
+          "references": [
+            "https://openclassrooms.com/fr/courses/2356306-prenez-en-main-windows-server"
+          ]
+        },
+        {
+          "titre": "Centralisez et sécurisez votre annuaire Active Directory",
+          "dateDebut": "Octobre-2020",
+          "lignes": [
+            "OpenClassRooms / Paris",
+            "ID du diplôme : 2162438794"
+          ],
+          "references": [
+            "https://openclassrooms.com/fr/courses/2222496-centralisez-et-securisez-votre-annuaire-active-directory"
+          ]
+        },
+        {
+          "titre": "Montez un serveur de fichiers sous Linux",
+          "dateDebut": "Septembre-2020",
+          "lignes": [
+            "OpenClassRooms / Paris",
+            "ID du diplôme : 9006204709"
+          ],
+          "references": [
+            "https://openclassrooms.com/fr/courses/2356316-montez-un-serveur-de-fichiers-sous-linux"
+          ]
+        },
+        {
+          "titre": "Gérez votre serveur Linux et ses services",
+          "dateDebut": "Septembre-2020",
+          "lignes": [
+            "OpenClassRooms / Paris",
+            "ID du diplôme : 9508697639"
+          ],
+          "references": [
+            "https://openclassrooms.com/fr/courses/1733551-gerez-votre-serveur-linux-et-ses-services"
+          ]
+        },
+        {
+          "titre": "Sécurisez votre réseau grâce aux VPN et Firewall",
+          "dateDebut": "Août-2020",
+          "lignes": [
+            "OpenClassRooms / Paris",
+            "ID du diplôme : 2634790476"
+          ],
+          "references": [
+            "https://openclassrooms.com/fr/courses/1946106-securisez-votre-reseau-grace-aux-vpn-et-firewall"
+          ]
+        },
+        {
+          "titre": "Administrez une architecture réseau avec CISCO",
+          "dateDebut": "Août-2020",
+          "lignes": [
+            "OpenClassRooms / Paris",
+            "ID du diplôme : 7823683716"
+          ],
+          "references": [
+            "https://openclassrooms.com/fr/courses/2557196-administrez-une-architecture-reseau-avec-cisco"
+          ]
+        },
+        {
+          "titre": "Reprenez le contrôle à l'aide de Linux !",
+          "dateDebut": "Juillet-2020",
+          "lignes": [
+            "OpenClassRooms / Paris",
+            "ID du diplôme : 3589844373"
+          ],
+          "references": [
+            "https://openclassrooms.com/fr/courses/43538-reprenez-le-controle-a-laide-de-linux"
+          ]
+        },
+        {
+          "titre": "Simulez des architectures réseaux avec GNS3",
+          "dateDebut": "Juillet-2020",
+          "lignes": [
+            "OpenClassRooms / Paris",
+            "ID du diplôme : 2483791381"
+          ],
+          "references": [
+            "https://openclassrooms.com/fr/courses/2581701-simulez-des-architectures-reseaux-avec-gns3"
+          ]
+        },
+        {
+          "titre": "Apprenez le fonctionnement des réseaux TCP/IP",
+          "dateDebut": "Juillet-2020",
+          "lignes": [
+            "OpenClassRooms / Paris",
+            "ID du diplôme : 2115031013"
+          ],
+          "references": [
+            "https://openclassrooms.com/fr/courses/857447-apprenez-le-fonctionnement-des-reseaux-tcp-ip"
+          ]
+        },
+        {
+          "titre": "Découvrez le monde des Systèmes d'Information",
+          "dateDebut": "Juin-2020",
+          "lignes": [
+            "OpenClassRooms / Paris",
+            "ID du diplôme : 9450198152"
+          ],
+          "references": [
+            "https://openclassrooms.com/fr/courses/2100086-decouvrez-le-monde-des-systemes-dinformation"
+          ]
+        },
+        {
+          "titre": "Chef de projet Méthodes Agiles",
+          "dateDebut": "Décembre-2017",
+          "lignes": [
+            "ORSYS / Paris"
+          ],
+          "references": [
+            "https://www.orsys.fr/formation-parcours-certifiant-chef-de-projet-methodes-agiles.html"
+          ]
+        }
+      ]
+    },    
+    "competences": {
+      "titre": "compétences clés",
+      "icon": "fas fa-user-cog margin-right",
+      "list": [
+        {
+          "titre": "Développement",
+          "icon": "fas fa-file-code margin-right",
+          "lignes": [
+            {
+              "titre": "LAMP (Linux, Apache, MySQL, PHP) / Symfony",
+              "niveau": "100"
+            },
+            {
+              "titre": "Python / Django",
+              "niveau": "100"
+            },
+            {
+              "titre": "HTML / CSS / XML / JSON",
+              "niveau": "100"
+            },
+            {
+              "titre": "Git / TortoiseSVN",
+              "niveau": "100"
+            },
+            {
+              "titre": "Mantis / Jenkins / JIRA",
+              "niveau": "100"
+            },
+            {
+              "titre": "JAVA / J2EE / Spring",
+              "niveau": "90"
+            },
+            {
+              "titre": "NodeJS / jQuery / VueJS / Angular",
+              "niveau": "95"
+            }
+          ]
+        },
+        {
+          "titre": "Systèmes et réseaux",
+          "icon": "fas fa-sitemap margin-right",
+          "lignes": [
+            {
+              "titre": "Serveur web : Apache2, Nginx, reverse proxy",
+              "niveau": "100"
+            },
+            {
+              "titre": "MySQL : sauvegarde/restauration incrémentiel",
+              "niveau": "100"
+            },
+            {
+              "titre": "Windows / Linux",
+              "niveau": "90"
+            },
+            {
+              "titre": "Sécurité : contrôle d’accès, pare-feu (Iptables, OPNsense, pfsense), supervision (Nagios, Centreon, Rsyslog)",
+              "niveau": "80"
+            },
+            {
+              "titre": "Réseaux : protocoles, routage, virtualisation, Wi-Fi",
+              "niveau": "80"
+            },
+            {
+              "titre": "Cloud AWS : CloudFormation, CloudWatch, Auto-Scaling group, Load Balancing, migration, VPN",
+              "niveau": "80"
+            },
+            {
+              "titre": "Windows Server 2016 - Active Directory, GPO, RODC, VPN",
+              "niveau": "80"
+            },
+            {
+              "titre": "Stockage : SAN, NAS, réplication",
+              "niveau": "80"
+            }
+          ]
+        }
+      ]
+    },
+    "langages": {
+      "titre": "langages",
+      "icon": "fas fa-globe margin-right",
+      "list": [
+        {
+          "titre": "Anglais",
+          "niveau": "50"
+        },
+        {
+          "titre": "Arabe",
+          "niveau": "100"
+        }
+      ]
+    },
+    "softskills": {
+      "titre": "Soft Skills",
+      "icon": "fas fa-user-tag margin-right",
+      "list": [
+        {
+          "titre": "Attentif, à l'écoute"
+        },
+        {
+          "titre": "Passionné"
+        },
+        {
+          "titre": "Coopératif"
+        },
+        {
+          "titre": "Respectueux"
+        },
+        {
+          "titre": "Enthousiaste"
+        },
+        {
+          "titre": "Optimiste"
+        },
+        {
+          "titre": "Ouvert d'esprit"
+        },
+        {
+          "titre": "Accepte les critiques et s'adapte en fonction"
+        },
+        {
+          "titre": "Organisé"
+        },
+        {
+          "titre": "Gestion des priorités"
+        },
+        {
+          "titre": "Prise d'initiatives"
+        },
+        {
+          "titre": "Sens des responsabilités"
+        },
+        {
+          "titre": "Respect des délais"
+        }
+      ]
+    },
+    "contact": {
+      "titre": "Contact",
+      "invitation": "Veuillez m'envoyer votre message",
+      "name": "Nom",
+      "email": "Email",
+      "subject": "Sujet",
+      "message": "Votre message",
+      "btvalider": "Envoyer",
+      "notification": "Veuillez corriger le suivant",
+      "notname": "Veuillez entrer votre nom.",
+      "notemail1": "Veuillez entrer votre email.",
+      "notemail2": "Votre email n'est pas valide.",
+      "notsubject": "Veuillez entrer votre sujet.",
+      "notmessage": "Veuillez entrer votre message."
+    },
+    "profile": {
+      "firstname": "Walid",
+      "lastname": "KEKHIA",
+      "poste1": "PhD.",
+      "poste2": "Ingénieur d’études et développement informatique",
+      "poste3": "Ingénieur systèmes et réseaux informatiques",
+      "linkedin": "https://www.linkedin.com/in/kekhia/"
+    },
+    "permis": {
+      "titre": "B",
+      "icon": "fas fa-car margin-right",
+      "list": []
+    },
+    "footer": {
+      "name": "Walid KEKHIA",
+      "icon": "fa fa-copyright hover-opacity"
+    }
+  }
+}
