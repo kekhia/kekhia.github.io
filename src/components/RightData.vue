@@ -8,7 +8,6 @@
       <h5 class="opacity">
         <b>{{ item.titre }}</b>
         <span
-          v-if="data.titre !== 'expériences professionnelles'"
           @click="scrollTop"
           class="fas fa-angle-double-up top"
         ></span>
